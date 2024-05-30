@@ -534,3 +534,4 @@ C:\Users\mertc\Desktop\MarinaMS\MarinaMS\MarinaMS\obj\Debug\net8.0\scopedcss\pro
 C:\Users\mertc\Desktop\MarinaMS\MarinaMS\MarinaMS\obj\Debug\net8.0\MarinaMS.csproj.Up2Date
 C:\Users\mertc\Desktop\MarinaMS\MarinaMS\MarinaMS\obj\Debug\net8.0\MarinaMS.genruntimeconfig.cache
 C:\Users\mertc\Desktop\MarinaMS\MarinaMS\MarinaMS\obj\Debug\net8.0\ref\MarinaMS.dll
+C:\Users\furka\source\repos\MarinaMS\MarinaMS\obj\Debug\net8.0\MarinaMS.sourcelink.json
